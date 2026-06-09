@@ -21,3 +21,8 @@
 📚 Utilizo este perfil para compartilhar projetos, estudos e laboratórios desenvolvidos durante minha formação em TI.
 
 🚀 Em busca da primeira oportunidade na área de Tecnologia da Informação.
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/paulo-pitura-8667a4237
+- E-mail: paulopitura@gmail.com
